@@ -1,4 +1,4 @@
-👋 Hi, a passionate beginner in programming exploring the world of data science and machine learning with Python.
+👋 Hi, I am a passionate beginner in programming exploring the world of data science and machine learning with Python.
 
 🌱 Currently learning Python for Data Science and diving into the fascinating field of machine learning. Excited to apply my skills to real-world problems!
 
